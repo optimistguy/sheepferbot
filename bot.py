@@ -9,4 +9,4 @@ client = commands.Bot(command_prefix = './CST')
 async def on_ready():
     print('Bot is ready.')
 
-client.run(process.env.BOT_TOKEN)
+client.run(TOKEN)
