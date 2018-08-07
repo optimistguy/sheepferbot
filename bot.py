@@ -3,7 +3,7 @@ from discord.ext import commands
 from random import randint
 
 
-TOKEN = 'NDc1OTcxNzYwMjkxMDUzNTY5.Dkm_lw.MZr8uiHf4Pl6LoLQy8YiUfyAQKo'
+TOKEN = 'YourTokenHere!'
 
 client = commands.Bot(command_prefix = '.')
 
